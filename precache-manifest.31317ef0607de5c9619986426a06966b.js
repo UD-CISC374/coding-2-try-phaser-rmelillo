@@ -24,12 +24,40 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "assets/images/ship3.png"
   },
   {
-    "revision": "5b72094203bd559703b4ac2c95dc9c0b",
+    "revision": "6be3462bcaa4a183b678800bb66d176c",
+    "url": "assets/spritesheets/beam.png"
+  },
+  {
+    "revision": "ea801e18a4f14b0c4740b555536b414e",
+    "url": "assets/spritesheets/explosion.png"
+  },
+  {
+    "revision": "ff70e55fbb2b70941d98b3e7ab1a01aa",
+    "url": "assets/spritesheets/player.png"
+  },
+  {
+    "revision": "05427110fd2c2de1d4738b31496a53c9",
+    "url": "assets/spritesheets/power-up.png"
+  },
+  {
+    "revision": "6387e4bedb194c28efe573c1cc5ce303",
+    "url": "assets/spritesheets/ship.png"
+  },
+  {
+    "revision": "4888982b102ce1a7c57fb9f8c129e63d",
+    "url": "assets/spritesheets/ship2.png"
+  },
+  {
+    "revision": "15d30c88882683af9f5092c13dc13853",
+    "url": "assets/spritesheets/ship3.png"
+  },
+  {
+    "revision": "73049fce7162150f028c9e1e4ed5353e",
     "url": "index.html"
   },
   {
-    "revision": "f0dc5393b8b735868209",
-    "url": "main.1c1ced71fe1beffdb62b.bundle.js"
+    "revision": "0c6a29f287c04c02fdc6",
+    "url": "main.5fbc21cf9ca9bfe8caab.bundle.js"
   },
   {
     "revision": "b4321e6f6a88a978d4964c0d1b432b03",
