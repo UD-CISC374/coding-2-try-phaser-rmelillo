@@ -62,7 +62,7 @@ export default class MainScene extends Phaser.Scene {
 
       powerUp.setVelocity(100,100);
       powerUp.setCollideWorldBounds(true);
-      powerUp.setBounce(2);
+      powerUp.setBounce(1);
     }
 
 
